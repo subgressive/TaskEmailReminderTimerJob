@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2a0b26a3-93f6-4317-9a7d-51da3869f828" solutionId="2a0b26a3-93f6-4317-9a7d-51da3869f828" resetWebServer="false" title="TaskTitle" sharePointProductVersion="15.0" name="TaskEmailReminderTimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c5a8e331-a450-4dd6-8247-42d0674c9c4d" />
+  </features>
+</package>
